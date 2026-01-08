@@ -90,6 +90,7 @@ You'll need to connect four pins:
 | SDA        | D2                               |
 
 My boiler's motherboard exposes this pin set:
+
 ![X8 pin set](./X8-connector.png)
 
 Yours might differ. But will be 4 pins too.
